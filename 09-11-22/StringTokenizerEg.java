@@ -8,7 +8,7 @@ public class StringTokenizerEg {
 	   StringTokenizer st1 = new StringTokenizer("Anudip foundation skill and career devlopment center ");
    while(st1.hasMoreTokens()) {
 	   System.out.println(st1.nextToken(" "));
-	   StringTokenizer st2 = new StringTokenizer("Hello every one i, am Abhisek Maity");
+	   StringTokenizer st2 = new StringTokenizer("Hello every one, I am Prithula Samanta");
 	      while(st1.hasMoreTokens()) {
 	    	  System.out.println();
 		   System.out.println(st2.nextToken(",")); 
